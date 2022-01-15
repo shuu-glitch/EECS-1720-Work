@@ -1,0 +1,7 @@
+jan 13, 2022
+- today i worked on / added to lecture example.
+- added it after / near the end of class.
+
+jan 15, 2022
+- today i worked on messing around with classes in js, using rudimentary circles.
+- added it at 1:05pm roughly.
