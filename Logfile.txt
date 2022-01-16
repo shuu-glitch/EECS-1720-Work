@@ -5,3 +5,7 @@ jan 13, 2022
 jan 15, 2022
 - today i worked on messing around with classes in js, using rudimentary circles.
 - added it at 1:05pm roughly.
+
+jan 16, 2022
+- read an article / few resources on how to make a browser extension to prepare for our next assignment.
+- finished that at 4:37 pm roughly.
