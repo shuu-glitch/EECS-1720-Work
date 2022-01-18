@@ -9,3 +9,7 @@ jan 15, 2022
 jan 16, 2022
 - read an article / few resources on how to make a browser extension to prepare for our next assignment.
 - finished that at 4:37 pm roughly.
+
+jan 18, 2022
+- looking into extensions more in-depth; cleaning up code from the 16th but not posting it
+- finished that at 3:54 pm.
