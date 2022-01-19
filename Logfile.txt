@@ -13,3 +13,11 @@ jan 16, 2022
 jan 18, 2022
 - looking into extensions more in-depth; cleaning up code from the 16th but not posting it
 - finished that at 3:54 pm.
+
+jan 19, 2022
+- looking into specific extension designing and ideas for project
+- watched a few youtube videos better explaining the concepts (coding train, etc.)
+- created a rudimentary content.js , background.js , and got around to blocking sites with extension
+- code and JSON files not posted to github , but worked on
+- added a README to the folder with resource links and a basic description.
+- finished all this at 2:21pm.
