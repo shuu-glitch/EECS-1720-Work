@@ -21,3 +21,8 @@ jan 19, 2022
 - code and JSON files not posted to github , but worked on
 - added a README to the folder with resource links and a basic description.
 - finished all this at 2:21pm.
+
+jan 20, 2022
+- published the first version of my extension , with additions and fixes from yesterday
+- still contains one unifxable error , for some reason. :/
+- finished at 5:23pm.
