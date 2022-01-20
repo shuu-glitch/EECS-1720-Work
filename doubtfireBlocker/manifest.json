@@ -1,0 +1,33 @@
+{
+  "name": "Doubtfire Blocker",
+  "version": "1.0.1",
+  "description": "Just your typical blocking of advertisements and trigger words (in a hopefully quirky way)!",
+  "author": "Lilian Ilodigwe",
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "activeTab"],
+    
+  "browser_action": {
+    "default_popup": "html/popup.html",
+    "default_title": "Doubtfire Blocker",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "19": "images/icon19.png",
+      "32": "images/icon32.png",
+      "48": "images/icon48.png"
+    }
+  },
+  
+  "background": {
+    "scripts": ["scripts/background.js"]
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "all_frames": true,
+      "js": ["scripts/content.js"],
+      "run_at": "document_end"
+    }
+  ],
+
+  "manifest_version": 2
+}
