@@ -26,3 +26,8 @@ jan 20, 2022
 - published the first version of my extension , with additions and fixes from yesterday
 - still contains one unifxable error , for some reason. :/
 - finished at 5:23pm.
+
+jan 22, 2022
+- published the more-detailed example given in class a few days prior , with some edits.
+- also contains a weird error. hm.
+- finished at 1:26pm.
