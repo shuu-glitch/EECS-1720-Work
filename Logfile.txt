@@ -31,3 +31,7 @@ jan 22, 2022
 - published the more-detailed example given in class a few days prior , with some edits.
 - also contains a weird error. hm.
 - finished at 1:26pm.
+
+jan 24, 2022
+- tried to find out why that error was showing in my extension, but to no avail. over an hour of scouring the internet wasted.
+- finished at 10:55am.
