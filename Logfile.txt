@@ -35,3 +35,9 @@ jan 22, 2022
 jan 24, 2022
 - tried to find out why that error was showing in my extension, but to no avail. over an hour of scouring the internet wasted.
 - finished at 10:55am.
+
+jan 26, 2022
+- scrapped my other idea from previous days ; may or may not delete them from my repo entirely.
+- came up with the idea of an extension that replaces the images you see when you search something with horror images.
+- a walking scopophobia warning , it is.
+- uploaded version 1.0 at 2:17pm. it is missing the actual images i created showing for some reason , but it's a start.
