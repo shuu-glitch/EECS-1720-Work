@@ -45,4 +45,12 @@ jan 26, 2022
 jan 27, 2022
 - got the images in the extension replacer to show, but encountered two negligible issues that are dated in the updated README.txt file for the project.
 - otherwise , it works perfectly fine ! yay.
-- updated to version 1.1 of the project at 9:38am. 
+- updated to version 1.1 of the project at 9:38am.
+
+feb 2, 2022
+- started looking into python ( geared towards project #2 ). nothing too serious, though.
+- finished at 1:07pm, roughly.
+
+feb 3, 2022
+- uploaded a new folder with modified content from lectures. messed around with some values and stuff.
+- finished at 4:12pm.
