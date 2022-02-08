@@ -54,3 +54,7 @@ feb 2, 2022
 feb 3, 2022
 - uploaded a new folder with modified content from lectures. messed around with some values and stuff.
 - finished at 4:12pm.
+
+feb 8, 2022
+- uploaded a new folder with modified content from lectures.
+- finished at 4:16pm.
