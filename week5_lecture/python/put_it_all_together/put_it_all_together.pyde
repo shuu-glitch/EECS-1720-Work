@@ -1,6 +1,7 @@
+# Put it together
 add_library('sound')
 
-pointA, pointB, ch_1, ch_2 = None, None, None, None
+c, d, ch_1, ch_2 = None, None, None, None
 
 def setup() :
   size(800, 800)
@@ -13,14 +14,14 @@ def setup() :
   ch_2 = SinOsc(this)
   ch_2.play(0,1)  
    
-  global pointA, pointB
-  pointA = color(random(255), random(255), random(255))
-  pointB = color(random(255), random(255), random(255))
+  global c, d
+  c= color(random(255), random(255), random(255))
+  d= color(random(255), random(255), random(255))
 
 
 def draw():
-  global ch_1, ch_2, pointA, pointB
-  background(0)
+  global ch_1, ch_2, c, d
+  background(253)
   stroke(0) 
   noFill()  
   constantFactor = 1.315
@@ -32,8 +33,8 @@ def draw():
     
     # timer?? 
     
-    for i in range(0, 20):
-        p = lerpColor(pointA, pointB, 1.0* i/width)
+    for i in range(0,20):
+        p = lerpColor(c, d, 1.0* i/width)
         stroke(p)
         #line(i, 0, i, height)
 
@@ -48,8 +49,10 @@ def draw():
    
    
 def mousePressed():
-  global pointA, pointB
-  pointA = color(random(255), random(255), random(255))
-  pointB = color(random(255), random(255), random(255))
+  global c, d
+  c= color(random(255), random(255), random(255))
+  d= color(random(255), random(255), random(255))
   ch_1.set(400, 1, 0, 0)
   ch_2.set(401, 1, 0, 0)
+
+    
