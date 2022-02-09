@@ -58,3 +58,18 @@ feb 3, 2022
 feb 8, 2022
 - uploaded a new folder with modified content from lectures.
 - finished at 4:16pm.
+
+feb 9, 2022
+- uploaded a folder containing contents for the bot we worked on in lab.
+- researched discord.py:
+	Original Link: https://discordpy.readthedocs.io/en/stable/
+	Has unfortunately has been officially discontinued on 28th August 2021. Nextcord, a fork of discord.py, will try to replace discord.py, with continued support and features, to still offer former discord.py users a stable API wrapper for their bots.
+	Link: https://pythonrepo.com/repo/nextcord-nextcord#:~:text=Fork%20notice,API%20wrapper%20for%20their%20bots.
+- researched instagram's python API:
+	Came across this forum on StackOverflow (https://stackoverflow.com/questions/61010431/how-to-start-with-the-instagramapi-in-python), which detailed that LevPasha's Instagram-API-python, instabot, and many other API's (like https://github.com/ohld/igbot) are no longer functional as of Oct 24, 2020 after Facebook deprecated the legacy API and now has a new, authentication-required, API. It now requires registering your app with Facebook to be able to get access to many of the API features (via oembed) that were previously available without any authentication.
+	This link was from 2021, in April - and includes how to get an API key in the second step: https://rapidapi.com/blog/instagram-api-python/
+	This link was updated on Jan. 30th, 2022, and details a python library designed to get access to instagram's API: https://pythonrepo.com/repo/ping-instagram_private_api-python-third-party-apis-wrappers
+- researched tiktok's python API (most are unofficial, so i chose one):
+	This link was updated on Jan. 31st, 2022 by David Teather: https://pythonrepo.com/repo/davidteather-TikTok-Api-python-third-party-apis-wrappers
+	This link talked about how to get and use tiktok's api: https://www.omegatheme.com/blog/110-tiktok-pixel/418-tips-to-get-and-use-tiktok-api-step-by-step
+- finished at 2:12pm.
