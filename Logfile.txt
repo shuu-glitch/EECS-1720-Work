@@ -82,3 +82,8 @@ feb 11, 2022
 - worked on a youtube comment bot; have not pushed to private repo on Robots-Make-Art-Too just yet
 - the bot works according to the video and tutorials followed , but does not seem to comment on any videos. may need help to figure out why , but at its core , it's pretty much ready , at least.
 - finished at 11:48am.
+
+feb 13 - 15th, 2022
+- worked on phase 1 with group members ; github issues , merging and creating branches and getting information , etc.
+- posted youtube comment bot with updated readme + statement .md files and more to my repo on robots-make-art-too organization.
+- finished at roughly 4:00pm.
