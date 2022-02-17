@@ -47,7 +47,7 @@ def setup():
 
 def draw():
   global numRings, ring;
-  background(251,128,114); # that pinkish background colour
+  background(95, 0, 222); # that pinkish background colour
 
   for i in range(numRings):
     # so we check for each ring object that could possibly exist 
