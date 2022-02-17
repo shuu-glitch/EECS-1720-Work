@@ -96,3 +96,7 @@ feb 16th, 2022
 - updated my STATEMENT.md file for lab 2, based on lab instructions. also updated README.md for bug reasons.
 - added the twitter version of the autonomous bot to my own private repo after following along
 - updated today ( time indeterminable as of time of writing this ).
+
+feb 17th, 2022
+- updated my personal 1720 repo with lecture files from tuesday ( with a minor colour edit ) and today.
+	- done at 4:01pm.
