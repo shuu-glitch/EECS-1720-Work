@@ -100,3 +100,7 @@ feb 16th, 2022
 feb 17th, 2022
 - updated my personal 1720 repo with lecture files from tuesday ( with a minor colour edit ) and today.
 	- done at 4:01pm.
+
+feb 18th, 2022
+- pushed first draft of quiz to repo in robots-make-art-too.
+- done at 5:12pm roughly.
