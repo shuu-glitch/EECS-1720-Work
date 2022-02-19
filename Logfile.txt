@@ -104,3 +104,7 @@ feb 17th, 2022
 feb 18th, 2022
 - pushed first draft of quiz to repo in robots-make-art-too.
 - done at 5:12pm roughly.
+
+feb 19th, 2022
+- updated quiz in my repo on robots-make-art-too.
+- done at 6:07pm.
