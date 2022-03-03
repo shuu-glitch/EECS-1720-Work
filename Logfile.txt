@@ -108,3 +108,8 @@ feb 18th, 2022
 feb 19th, 2022
 - updated quiz in my repo on robots-make-art-too.
 - done at 6:07pm.
+
+march 3rd, 2022
+- added index file ( with one extra comment for troubleshooting help potentially ).
+- may help with group project - idk , i'm not code-savvy like this haha.
+- done at 3:43pm.
