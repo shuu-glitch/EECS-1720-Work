@@ -113,3 +113,10 @@ march 3rd, 2022
 - added index file ( with one extra comment for troubleshooting help potentially ).
 - may help with group project - idk , i'm not code-savvy like this haha.
 - done at 3:43pm.
+
+march 6th. 2022
+- added more reference images for creatures to the Group11_CreatureStudy repo
+= worked on a cutesy (temporary) scorpion model for the pulminoscorpious kirktonensis.
+	- may make a more detailed version depending on next group meeting and idea of
+	  realism / complex vs. fantastical / simple , but we'll go with this for now.
+- finished at 2:50pm.
