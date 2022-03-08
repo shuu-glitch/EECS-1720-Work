@@ -114,9 +114,18 @@ march 3rd, 2022
 - may help with group project - idk , i'm not code-savvy like this haha.
 - done at 3:43pm.
 
-march 6th. 2022
+march 6th, 2022
 - added more reference images for creatures to the Group11_CreatureStudy repo
 = worked on a cutesy (temporary) scorpion model for the pulminoscorpious kirktonensis.
 	- may make a more detailed version depending on next group meeting and idea of
 	  realism / complex vs. fantastical / simple , but we'll go with this for now.
 - finished at 2:50pm.
+
+march 8th, 2022
+- made Group11_CreatureStudy repo public to launch the AR we learned in class, should we
+want to go that way as a group
+- also made gh-pages branch, edited the index.md file to something fitting our group +
+to test version control
+- continued work on 3d models for potential group discussion / for thursday lecture + code
+demo.
+- finished at 5:38pm.
