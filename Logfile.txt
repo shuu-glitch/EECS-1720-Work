@@ -129,3 +129,10 @@ to test version control
 - continued work on 3d models for potential group discussion / for thursday lecture + code
 demo.
 - finished at 5:38pm.
+
+march 9th, 2022
+- finished work on three 3d models for potential group discussion / for thursday lecture
++ code demo.
+- finished work on markers , qr code and logo for group project.
+- followed along with lab ; created repo for testing , and accounts with heroku and anaconda.
+- finished at 2:02pm.
