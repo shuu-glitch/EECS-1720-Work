@@ -136,3 +136,9 @@ march 9th, 2022
 - finished work on markers , qr code and logo for group project.
 - followed along with lab ; created repo for testing , and accounts with heroku and anaconda.
 - finished at 2:02pm.
+
+march 10th, 2022
+- adjusted arthropleura model polygons.
+- updated ar-index.html and index.html with content from lecture.
+- added models, .patt files and other project-related images and objects to the gh-pages branch.
+- finished at 4:40pm.
