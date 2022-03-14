@@ -148,3 +148,8 @@ march 13th, 2022
 with a chat room/comments section of some kind. not sure if i want it to be in python or
 in JS, because I do need it to be somehow displayed in-browser.
 - finished at 12:00am (of march 14th, 2022).
+
+march 14th, 2022
+- edited README.md with resources I am using for the python draft of my Lab 3 project.
+(Not including the multiplayer aspect just yet.)
+- finished at 12:22am.
