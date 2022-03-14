@@ -142,3 +142,9 @@ march 10th, 2022
 - updated ar-index.html and index.html with content from lecture.
 - added models, .patt files and other project-related images and objects to the gh-pages branch.
 - finished at 4:40pm.
+
+march 13th, 2022
+- did research into lab 3 - going a more multiplayer-based text adventure style somehow,
+with a chat room/comments section of some kind. not sure if i want it to be in python or
+in JS, because I do need it to be somehow displayed in-browser.
+- finished at 12:00am (of march 14th, 2022).
