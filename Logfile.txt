@@ -153,3 +153,5 @@ march 14th, 2022
 - edited README.md with resources I am using for the python draft of my Lab 3 project.
 (Not including the multiplayer aspect just yet.)
 - finished at 12:22am.
+- edited ar pages with actual links instead of relative ones for ease of testing.
+- finished at 11:17am.
