@@ -153,5 +153,12 @@ march 14th, 2022
 - edited README.md with resources I am using for the python draft of my Lab 3 project.
 (Not including the multiplayer aspect just yet.)
 - finished at 12:22am.
-- edited ar pages with actual links instead of relative ones for ease of testing.
+- edited ar pages with actual links instead of relative ones for my other group member's ease of testing.
 - finished at 11:17am.
+- worked on two different concepts for my lab3 ahead of the scheduled meeting tomorrow.
+- posted them in the being-there-together folder in my firstname-lastname repo.
+- the text rpg is a single-player concept at the moment, while the quiz needs CSS polishing
+- however, they both require multi-user/multiplayer functionality and communication.
+	- comment section, chat room, in-browser stuff, etc.
+- will bring that up tomorrow, i guess.
+- finished at 9:33pm.
