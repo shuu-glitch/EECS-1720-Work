@@ -166,3 +166,4 @@ march 14th, 2022
 march 15th, 2022
 - edited README.md for text-rpg example specifically.
 - test running it (as of 12:05pm).
+- finished test run and needed changes by 1:15pm.
