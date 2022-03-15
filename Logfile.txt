@@ -162,3 +162,7 @@ march 14th, 2022
 	- comment section, chat room, in-browser stuff, etc.
 - will bring that up tomorrow, i guess.
 - finished at 9:33pm.
+
+march 15th, 2022
+- edited README.md for text-rpg example specifically.
+- test running it (as of 12:05pm).
