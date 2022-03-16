@@ -167,3 +167,8 @@ march 15th, 2022
 - edited README.md for text-rpg example specifically.
 - test running it (as of 12:05pm).
 - finished test run and needed changes by 1:15pm.
+- scrapped rpg idea (it was cool, but heroku wasn't working with python on my end).
+- node.js idea - drawing game in browser, similar to skribbl.io now online and deployed.
+- added text-rpg and quiz-app concepts to another folder on EECS1720-Works for later use/storage.
+- drawing application works and heroku recognizes node.js! wonderful !
+- finished at 5:19pm.
