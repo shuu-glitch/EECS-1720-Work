@@ -173,3 +173,13 @@ march 15th, 2022
 - drawing application works and heroku recognizes node.js! wonderful !
 - finished at 5:19pm.
 - uploaded other concepts to personal repo (this one) for 100 Days of code requirements.
+
+march 16th, 2022
+- edited Quiz3 folder in firstname_lastname repo in preparation for Quiz 3 tomorrow.
+- tested server.py to check if it was functional.
+- added in / renamed location-based index.html and placed it in there in preparation;
+may need to rename to index.html straight (for direct linking).
+- don't know HOW i will do this from mobile but we will certainly try.
+- might need to start gh-pages / heroku so that i can access from my phone, but in that
+case i will need to make a whole new repo. unfortunate.
+- finished at 1:51pm.
