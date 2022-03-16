@@ -172,3 +172,4 @@ march 15th, 2022
 - added text-rpg and quiz-app concepts to another folder on EECS1720-Works for later use/storage.
 - drawing application works and heroku recognizes node.js! wonderful !
 - finished at 5:19pm.
+- uploaded other concepts to personal repo (this one) for 100 Days of code requirements.
