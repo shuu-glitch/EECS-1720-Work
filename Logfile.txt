@@ -183,3 +183,7 @@ may need to rename to index.html straight (for direct linking).
 - might need to start gh-pages / heroku so that i can access from my phone, but in that
 case i will need to make a whole new repo. unfortunate.
 - finished at 1:51pm.
+- updated repo / our stuff (Group11_CreatureStudy repo) from prof's example; because some
+members of my group didn't/couldn't do that + were having problems doing their part of
+the testing because of it. (sigh)
+- finished at 2:43pm.
