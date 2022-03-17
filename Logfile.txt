@@ -187,3 +187,9 @@ case i will need to make a whole new repo. unfortunate.
 members of my group didn't/couldn't do that + were having problems doing their part of
 the testing because of it. (sigh)
 - finished at 2:43pm.
+
+march 17th, 2022
+- prep. for quiz done before 2:30-ish. got spaceship model to show up at a location.
+- updated the README.md files of both the test repo and graded repo (drawing app)with
+relevant info.
+- finished at 3:13pm.
