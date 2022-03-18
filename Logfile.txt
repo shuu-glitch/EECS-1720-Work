@@ -193,3 +193,7 @@ march 17th, 2022
 - updated the README.md files of both the test repo and graded repo (drawing app)with
 relevant info.
 - finished at 3:13pm.
+
+march 18th, 2022
+- finalized quiz.
+- finished at 12:46pm.
