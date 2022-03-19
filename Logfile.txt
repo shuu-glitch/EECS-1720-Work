@@ -197,3 +197,7 @@ relevant info.
 march 18th, 2022
 - finalized quiz.
 - finished at 12:46pm.
+
+march 19th, 2022
+- updated .html file for quiz according to professor's update.
+- finished at 3:11pm.
