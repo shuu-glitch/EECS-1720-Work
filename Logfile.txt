@@ -201,3 +201,6 @@ march 18th, 2022
 march 19th, 2022
 - updated .html file for quiz according to professor's update.
 - finished at 3:11pm.
+
+march 23rd, 2022
+- updated the Quiz 3 to add the README.md file for Step 8.
