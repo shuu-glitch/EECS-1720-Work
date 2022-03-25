@@ -210,3 +210,6 @@ march 24th, 2022
 - updated Lab Project 4's PART A to my firstname_lastname repo, according to instructions
 in lecture.
 - finished at 6:50pm.
+- finished editing and texturing 3 new models, uploaded new patterns, and edited the
+.html file accordingly.
+- finished at 9:48pm.
