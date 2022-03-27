@@ -213,3 +213,8 @@ in lecture.
 - finished editing and texturing 3 new models, uploaded new patterns, and edited the
 .html file accordingly.
 - finished at 9:48pm.
+
+march 27th, 2022
+- made a button that linked to a website i made for our project resources and 
+creature information.
+- finished at 6:39pm.
