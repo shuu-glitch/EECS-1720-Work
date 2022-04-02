@@ -224,3 +224,10 @@ march 29th, 2022
 - added a new css file for the button and moved it around.
 - worked on the external site for pictures of our rendered creatures, information, etc.
 - finished at 2:16pm.
+
+--> there were commits made inbetween here, but those were to personal repos (unrelated to coursework).
+
+april 2nd, 2022
+- checked if .glb files would work for showing textures instead of .gltf ; the same result occurs.
+- i will update my lab 4 part a) after the group project discussion w/ professor.
+- finished at 5:30pm.
